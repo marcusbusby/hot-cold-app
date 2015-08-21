@@ -1,7 +1,7 @@
-number=random(number 1-100)
-guess = prompt(input)
+var number=random(number 1-100)
+var guess = prompt(input)
 
-closeness = abs(number=guess)
+var closeness = abs(number=guess)
 
 
 if(closeness <= 5) {
